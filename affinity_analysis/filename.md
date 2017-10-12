@@ -1,1 +1,1 @@
-1. affinity_analysis
+Affinity analysis is also known as Market Basket Analysis.

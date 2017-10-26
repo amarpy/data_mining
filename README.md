@@ -1,2 +1,2 @@
 # data_mining
-learning data mining with python methods
+learning data mining with python

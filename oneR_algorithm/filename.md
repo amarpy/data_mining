@@ -1,0 +1,1 @@
+oneR algorithm for classification
